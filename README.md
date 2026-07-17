@@ -49,8 +49,6 @@ The project demonstrates how multiple AWS services can work together to build a 
 
 # 🏗 Architecture
 
-![Architecture](architecture/architecture.png)
-
 Workflow:
 
 User
@@ -116,8 +114,8 @@ Emotion-Recognition-AWS
 # 📸 Project Screenshots
 
 <img width="1875" height="891" alt="image" src="https://github.com/user-attachments/assets/c627a411-2b34-444b-b467-ea37e5891a0a" />
-
 ---
+<img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/57e3e0d7-5940-453e-a408-ac88e67e1d73" />
 
 ---
 
