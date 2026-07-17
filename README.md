@@ -115,51 +115,9 @@ Emotion-Recognition-AWS
 
 # 📸 Project Screenshots
 
-## Home Page
-
-![Home](screenshots/home.png)
+<img width="1875" height="891" alt="image" src="https://github.com/user-attachments/assets/c627a411-2b34-444b-b467-ea37e5891a0a" />
 
 ---
-
-## Camera Capture
-
-![Camera](screenshots/camera.png)
-
----
-
-## Emotion Detection Result
-
-![Result](screenshots/result.png)
-
----
-
-## Amazon S3 Bucket
-
-![S3](screenshots/s3.png)
-
----
-
-## API Gateway
-
-![API Gateway](screenshots/api-gateway.png)
-
----
-
-## Lambda Functions
-
-![Lambda](screenshots/lambda.png)
-
----
-
-## DynamoDB Table
-
-![DynamoDB](screenshots/dynamodb.png)
-
----
-
-## Rekognition
-
-![Rekognition](screenshots/rekognition.png)
 
 ---
 
